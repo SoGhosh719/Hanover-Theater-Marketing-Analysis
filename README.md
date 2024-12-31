@@ -1,12 +1,15 @@
 # Hanover-Theater-Marketing-Analysis
-Hanover Theatre Case Study: Insights and Recommendations
-Introduction
+## Hanover Theatre Case Study: Insights and Recommendations
+
+### Introduction
+
 The Hanover Theatre, a cultural landmark in Worcester, MA, is renowned for productions like A Christmas Carol. However, the theatre faces challenges in attracting younger audiences, particularly university students, due to barriers such as:
 
-Affordability
-Scheduling conflicts
-Cultural disconnect
-Accessibility issues
+- Affordability
+- Scheduling conflicts
+- Cultural disconnect
+ -Accessibility issues
+
 Challenges Faced by the Theatre
 1. Affordability
 Ticket prices ($39–$69) exceed the budget of students who prefer options under $25.
